@@ -1,5 +1,5 @@
 
-# E-Marche
+# My Pill
 
 My Pill is an mobile application built using flutter. It helps you to remember to take your medications at the right time. It allows you to create any type of recurring reminders.
 
