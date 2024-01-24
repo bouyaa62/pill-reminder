@@ -1,16 +1,19 @@
-# my_pill
 
-A new Flutter project.
+# E-Marche
 
-## Getting Started
+My Pill is an mobile application built using flutter. It helps you to remember to take your medications at the right time. It allows you to create any type of recurring reminders.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+
+Check screenshots of all the application's screens.
+
+![App Screenshot](https://i.ibb.co/bPMWXBG/Screenshot-2024-01-24-12-24-53-12.jpg)
+![App Screenshot](https://i.ibb.co/TKFVg4M/Screenshot-2024-01-24-12-25-01-32.jpg)
+![App Screenshot](https://i.ibb.co/549wpxq/Screenshot-2024-01-24-12-26-26-82.jpg)
+![App Screenshot](https://i.ibb.co/Lzv5SW9/Screenshot-2024-01-24-12-28-34-82.jpg)
+![App Screenshot](https://i.ibb.co/8P7VKwd/Screenshot-2024-01-24-12-28-48-81.jpg)
+![App Screenshot](https://i.ibb.co/Fs3gf2Q/Screenshot-2024-01-24-12-28-51-69.jpg)
